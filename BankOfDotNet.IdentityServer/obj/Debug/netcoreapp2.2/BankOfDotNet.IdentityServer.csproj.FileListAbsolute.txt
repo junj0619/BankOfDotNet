@@ -1,0 +1,13 @@
+C:\Users\jjim\source\repos\BankOfDotNet\BankOfDotNet.IdentityServer\bin\Debug\netcoreapp2.2\BankOfDotNet.IdentityServer.deps.json
+C:\Users\jjim\source\repos\BankOfDotNet\BankOfDotNet.IdentityServer\bin\Debug\netcoreapp2.2\BankOfDotNet.IdentityServer.runtimeconfig.json
+C:\Users\jjim\source\repos\BankOfDotNet\BankOfDotNet.IdentityServer\bin\Debug\netcoreapp2.2\BankOfDotNet.IdentityServer.runtimeconfig.dev.json
+C:\Users\jjim\source\repos\BankOfDotNet\BankOfDotNet.IdentityServer\bin\Debug\netcoreapp2.2\BankOfDotNet.IdentityServer.dll
+C:\Users\jjim\source\repos\BankOfDotNet\BankOfDotNet.IdentityServer\bin\Debug\netcoreapp2.2\BankOfDotNet.IdentityServer.pdb
+C:\Users\jjim\source\repos\BankOfDotNet\BankOfDotNet.IdentityServer\obj\Debug\netcoreapp2.2\BankOfDotNet.IdentityServer.csproj.CoreCompileInputs.cache
+C:\Users\jjim\source\repos\BankOfDotNet\BankOfDotNet.IdentityServer\obj\Debug\netcoreapp2.2\BankOfDotNet.IdentityServer.RazorAssemblyInfo.cache
+C:\Users\jjim\source\repos\BankOfDotNet\BankOfDotNet.IdentityServer\obj\Debug\netcoreapp2.2\BankOfDotNet.IdentityServer.RazorAssemblyInfo.cs
+C:\Users\jjim\source\repos\BankOfDotNet\BankOfDotNet.IdentityServer\obj\Debug\netcoreapp2.2\BankOfDotNet.IdentityServer.AssemblyInfoInputs.cache
+C:\Users\jjim\source\repos\BankOfDotNet\BankOfDotNet.IdentityServer\obj\Debug\netcoreapp2.2\BankOfDotNet.IdentityServer.AssemblyInfo.cs
+C:\Users\jjim\source\repos\BankOfDotNet\BankOfDotNet.IdentityServer\obj\Debug\netcoreapp2.2\BankOfDotNet.IdentityServer.RazorTargetAssemblyInfo.cache
+C:\Users\jjim\source\repos\BankOfDotNet\BankOfDotNet.IdentityServer\obj\Debug\netcoreapp2.2\BankOfDotNet.IdentityServer.dll
+C:\Users\jjim\source\repos\BankOfDotNet\BankOfDotNet.IdentityServer\obj\Debug\netcoreapp2.2\BankOfDotNet.IdentityServer.pdb

@@ -1,0 +1,14 @@
+C:\Users\jjim\source\repos\BankOfDotNet\BankOfDotNet.API\bin\Debug\netcoreapp2.2\BankOfDotNet.API.deps.json
+C:\Users\jjim\source\repos\BankOfDotNet\BankOfDotNet.API\bin\Debug\netcoreapp2.2\BankOfDotNet.API.runtimeconfig.json
+C:\Users\jjim\source\repos\BankOfDotNet\BankOfDotNet.API\bin\Debug\netcoreapp2.2\BankOfDotNet.API.runtimeconfig.dev.json
+C:\Users\jjim\source\repos\BankOfDotNet\BankOfDotNet.API\bin\Debug\netcoreapp2.2\BankOfDotNet.API.dll
+C:\Users\jjim\source\repos\BankOfDotNet\BankOfDotNet.API\obj\Debug\netcoreapp2.2\BankOfDotNet.API.csprojAssemblyReference.cache
+C:\Users\jjim\source\repos\BankOfDotNet\BankOfDotNet.API\obj\Debug\netcoreapp2.2\BankOfDotNet.API.csproj.CoreCompileInputs.cache
+C:\Users\jjim\source\repos\BankOfDotNet\BankOfDotNet.API\obj\Debug\netcoreapp2.2\BankOfDotNet.API.RazorAssemblyInfo.cache
+C:\Users\jjim\source\repos\BankOfDotNet\BankOfDotNet.API\obj\Debug\netcoreapp2.2\BankOfDotNet.API.RazorAssemblyInfo.cs
+C:\Users\jjim\source\repos\BankOfDotNet\BankOfDotNet.API\obj\Debug\netcoreapp2.2\BankOfDotNet.API.AssemblyInfoInputs.cache
+C:\Users\jjim\source\repos\BankOfDotNet\BankOfDotNet.API\obj\Debug\netcoreapp2.2\BankOfDotNet.API.AssemblyInfo.cs
+C:\Users\jjim\source\repos\BankOfDotNet\BankOfDotNet.API\obj\Debug\netcoreapp2.2\BankOfDotNet.API.RazorTargetAssemblyInfo.cache
+C:\Users\jjim\source\repos\BankOfDotNet\BankOfDotNet.API\bin\Debug\netcoreapp2.2\BankOfDotNet.API.pdb
+C:\Users\jjim\source\repos\BankOfDotNet\BankOfDotNet.API\obj\Debug\netcoreapp2.2\BankOfDotNet.API.dll
+C:\Users\jjim\source\repos\BankOfDotNet\BankOfDotNet.API\obj\Debug\netcoreapp2.2\BankOfDotNet.API.pdb
