@@ -6,6 +6,5 @@ C:\Users\jjim\source\repos\BankOfDotNet\BankOfDotNet.ConsoleClient\obj\Debug\net
 C:\Users\jjim\source\repos\BankOfDotNet\BankOfDotNet.ConsoleClient\obj\Debug\netcoreapp2.2\BankOfDotNet.ConsoleClient.AssemblyInfoInputs.cache
 C:\Users\jjim\source\repos\BankOfDotNet\BankOfDotNet.ConsoleClient\obj\Debug\netcoreapp2.2\BankOfDotNet.ConsoleClient.AssemblyInfo.cs
 C:\Users\jjim\source\repos\BankOfDotNet\BankOfDotNet.ConsoleClient\bin\Debug\netcoreapp2.2\BankOfDotNet.ConsoleClient.pdb
-C:\Users\jjim\source\repos\BankOfDotNet\BankOfDotNet.ConsoleClient\obj\Debug\netcoreapp2.2\BankOfDotNet.ConsoleClient.csprojAssemblyReference.cache
 C:\Users\jjim\source\repos\BankOfDotNet\BankOfDotNet.ConsoleClient\obj\Debug\netcoreapp2.2\BankOfDotNet.ConsoleClient.dll
 C:\Users\jjim\source\repos\BankOfDotNet\BankOfDotNet.ConsoleClient\obj\Debug\netcoreapp2.2\BankOfDotNet.ConsoleClient.pdb

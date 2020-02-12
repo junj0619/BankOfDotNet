@@ -14,13 +14,16 @@ namespace BankOfDotNet.ConsoleClient
 
         private static async Task MainAsync()
         {
+            await RequestClientCredentials();
+
+            await RequestResourceOwnerPassword();
+
+        }
+
+        private static async Task RequestClientCredentials()
+        {
             // Discover all the EndPoints using metadata of identity server
-            var disco = await DiscoveryClient.GetAsync("http://localhost:5001");
-            if (disco.IsError)
-            {
-                Console.WriteLine(disco.Error);
-                return;
-            }
+            var disco = await DiscoverClient();
 
             //Grab a bearer token
             var tokenClient = new TokenClient(disco.TokenEndpoint, "client", "secret");
@@ -59,13 +62,50 @@ namespace BankOfDotNet.ConsoleClient
             if (!getCustomerResponse.IsSuccessStatusCode)
             {
                 Console.WriteLine(getCustomerResponse.StatusCode);
-            } else
+            }
+            else
             {
                 var content = await getCustomerResponse.Content.ReadAsStringAsync();
                 Console.WriteLine(JArray.Parse(content));
             }
 
             Console.Read();
+        }
+
+        private static async Task RequestResourceOwnerPassword()
+        {
+            var disco = await DiscoveryClient.GetAsync("http://localhost:5001");
+            if (disco.IsError)
+            {
+                Console.WriteLine(disco.Error);
+                return;
+            }
+
+            //Grab a bearer token
+            var tokenClient = new TokenClient(disco.TokenEndpoint, "ro.client", "secret");
+            //Request scope
+            var tokenReponse = await tokenClient.RequestResourceOwnerPasswordAsync("John", "password", "bankOfDotNetApi");
+            if (tokenReponse.IsError)
+            {
+                Console.WriteLine(tokenReponse.Error);
+                return;
+            }
+
+            //console JWT token
+            Console.WriteLine(tokenReponse.Json);
+            Console.WriteLine("\n\n");
+
+        }
+
+        private static async Task<DiscoveryResponse> DiscoverClient()
+        {
+            var disco = await DiscoveryClient.GetAsync("http://localhost:5001");
+            if (disco.IsError)
+            {
+                Console.WriteLine(disco.Error);
+                return null;
+            }
+            return disco;
         }
     }
 }
