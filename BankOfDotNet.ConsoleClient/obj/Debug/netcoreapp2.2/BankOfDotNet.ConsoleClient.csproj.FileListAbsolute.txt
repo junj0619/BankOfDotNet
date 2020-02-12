@@ -1,0 +1,11 @@
+C:\Users\jjim\source\repos\BankOfDotNet\BankOfDotNet.ConsoleClient\bin\Debug\netcoreapp2.2\BankOfDotNet.ConsoleClient.deps.json
+C:\Users\jjim\source\repos\BankOfDotNet\BankOfDotNet.ConsoleClient\bin\Debug\netcoreapp2.2\BankOfDotNet.ConsoleClient.runtimeconfig.json
+C:\Users\jjim\source\repos\BankOfDotNet\BankOfDotNet.ConsoleClient\bin\Debug\netcoreapp2.2\BankOfDotNet.ConsoleClient.runtimeconfig.dev.json
+C:\Users\jjim\source\repos\BankOfDotNet\BankOfDotNet.ConsoleClient\bin\Debug\netcoreapp2.2\BankOfDotNet.ConsoleClient.dll
+C:\Users\jjim\source\repos\BankOfDotNet\BankOfDotNet.ConsoleClient\obj\Debug\netcoreapp2.2\BankOfDotNet.ConsoleClient.csproj.CoreCompileInputs.cache
+C:\Users\jjim\source\repos\BankOfDotNet\BankOfDotNet.ConsoleClient\obj\Debug\netcoreapp2.2\BankOfDotNet.ConsoleClient.AssemblyInfoInputs.cache
+C:\Users\jjim\source\repos\BankOfDotNet\BankOfDotNet.ConsoleClient\obj\Debug\netcoreapp2.2\BankOfDotNet.ConsoleClient.AssemblyInfo.cs
+C:\Users\jjim\source\repos\BankOfDotNet\BankOfDotNet.ConsoleClient\bin\Debug\netcoreapp2.2\BankOfDotNet.ConsoleClient.pdb
+C:\Users\jjim\source\repos\BankOfDotNet\BankOfDotNet.ConsoleClient\obj\Debug\netcoreapp2.2\BankOfDotNet.ConsoleClient.csprojAssemblyReference.cache
+C:\Users\jjim\source\repos\BankOfDotNet\BankOfDotNet.ConsoleClient\obj\Debug\netcoreapp2.2\BankOfDotNet.ConsoleClient.dll
+C:\Users\jjim\source\repos\BankOfDotNet\BankOfDotNet.ConsoleClient\obj\Debug\netcoreapp2.2\BankOfDotNet.ConsoleClient.pdb
